@@ -1,8 +1,8 @@
 {
+  "homepage": "http//EthanGibsonBooth.github.io/EthanPathfindingVisualiser",
   "name": "pathfinding-visualizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ethan.github.io/pathfinding-visualizer",
   "dependencies": {
     "bootstrap": "^4.5.2",
     "cra-template": "1.0.3",
@@ -38,6 +38,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.3"
   }
 }
