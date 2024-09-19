@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/http//EthanGibsonBooth.github.io/EthanPathfindingVisualiser/precache-manifest.d6cb35db91e8963ead7f8e08fe713406.js"
+  "/Ethan-PathfindingVisualiser/precache-manifest.718fe9cdc19b3ded868dbffc423e8cb1.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/http//EthanGibsonBooth.github.io/EthanPathfindingVisualiser/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Ethan-PathfindingVisualiser/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
