@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Ethan-PathfindingVisualiser/static/css/main.65d9ef5c.chunk.css",
-    "main.js": "/Ethan-PathfindingVisualiser/static/js/main.ede83406.chunk.js",
-    "main.js.map": "/Ethan-PathfindingVisualiser/static/js/main.ede83406.chunk.js.map",
-    "runtime-main.js": "/Ethan-PathfindingVisualiser/static/js/runtime-main.23ccec4b.js",
-    "runtime-main.js.map": "/Ethan-PathfindingVisualiser/static/js/runtime-main.23ccec4b.js.map",
-    "static/css/2.8aa5a7f8.chunk.css": "/Ethan-PathfindingVisualiser/static/css/2.8aa5a7f8.chunk.css",
-    "static/js/2.de969b78.chunk.js": "/Ethan-PathfindingVisualiser/static/js/2.de969b78.chunk.js",
-    "static/js/2.de969b78.chunk.js.map": "/Ethan-PathfindingVisualiser/static/js/2.de969b78.chunk.js.map",
-    "index.html": "/Ethan-PathfindingVisualiser/index.html",
-    "precache-manifest.718fe9cdc19b3ded868dbffc423e8cb1.js": "/Ethan-PathfindingVisualiser/precache-manifest.718fe9cdc19b3ded868dbffc423e8cb1.js",
-    "service-worker.js": "/Ethan-PathfindingVisualiser/service-worker.js",
-    "static/css/2.8aa5a7f8.chunk.css.map": "/Ethan-PathfindingVisualiser/static/css/2.8aa5a7f8.chunk.css.map",
-    "static/css/main.65d9ef5c.chunk.css.map": "/Ethan-PathfindingVisualiser/static/css/main.65d9ef5c.chunk.css.map",
-    "static/js/2.de969b78.chunk.js.LICENSE.txt": "/Ethan-PathfindingVisualiser/static/js/2.de969b78.chunk.js.LICENSE.txt"
+    "main.css": "/EthanPathfindingVisualiser/static/css/main.65d9ef5c.chunk.css",
+    "main.js": "/EthanPathfindingVisualiser/static/js/main.903b79fb.chunk.js",
+    "main.js.map": "/EthanPathfindingVisualiser/static/js/main.903b79fb.chunk.js.map",
+    "runtime-main.js": "/EthanPathfindingVisualiser/static/js/runtime-main.8abe5206.js",
+    "runtime-main.js.map": "/EthanPathfindingVisualiser/static/js/runtime-main.8abe5206.js.map",
+    "static/css/2.8aa5a7f8.chunk.css": "/EthanPathfindingVisualiser/static/css/2.8aa5a7f8.chunk.css",
+    "static/js/2.de969b78.chunk.js": "/EthanPathfindingVisualiser/static/js/2.de969b78.chunk.js",
+    "static/js/2.de969b78.chunk.js.map": "/EthanPathfindingVisualiser/static/js/2.de969b78.chunk.js.map",
+    "index.html": "/EthanPathfindingVisualiser/index.html",
+    "precache-manifest.9624887edf30518fda9c4e1cc317b28b.js": "/EthanPathfindingVisualiser/precache-manifest.9624887edf30518fda9c4e1cc317b28b.js",
+    "service-worker.js": "/EthanPathfindingVisualiser/service-worker.js",
+    "static/css/2.8aa5a7f8.chunk.css.map": "/EthanPathfindingVisualiser/static/css/2.8aa5a7f8.chunk.css.map",
+    "static/css/main.65d9ef5c.chunk.css.map": "/EthanPathfindingVisualiser/static/css/main.65d9ef5c.chunk.css.map",
+    "static/js/2.de969b78.chunk.js.LICENSE.txt": "/EthanPathfindingVisualiser/static/js/2.de969b78.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.23ccec4b.js",
+    "static/js/runtime-main.8abe5206.js",
     "static/css/2.8aa5a7f8.chunk.css",
     "static/js/2.de969b78.chunk.js",
     "static/css/main.65d9ef5c.chunk.css",
-    "static/js/main.ede83406.chunk.js"
+    "static/js/main.903b79fb.chunk.js"
   ]
 }
